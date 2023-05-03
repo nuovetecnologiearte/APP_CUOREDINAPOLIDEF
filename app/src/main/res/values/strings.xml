@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">#CUOREDINAPOLI</string>
+    <string name="title_battito">Pulse</string>
+    <string name="title_progetti">Progetti</string>
+    <string name="title_flusso">Flow</string>
+    <string name="title_concept">Concept</string>
+    <string name="title_map">Map </string>
+    <string name="title_ar">Multimedia </string>
+    <string name="title_Entranelflusso">JOIN THE FLOW </string>
+    <string name="citybrand_uno">#CUOREDINAPOLI contains different meanings, strictly connected to the experience of the relationship. It is a sharing and communication platform that produces an exchange of experiences and energies capable of changing the soul and feeling of the subjects involved.</string>
+    <string name="citybrand_due">It is the ideal starting point to build a common path of belonging: #CUOREDINAPOLI is a sign that, also used as a hashtag, amplifies the sense of re-appropriation of the territory and the city.The strength of the sign, spread horizontally and from below, has determined that #CUOREDINAPOLI has been identified over time as a real brand of the city, in which the city recognizes itself in its contents and visual image. </string>
+    <string name="citybrand_tre">The urban public space becomes the place to create a diffused anthropological relational sculpture, which is articulated within the city and which lives of the relationships between the various subjects that constantly contribute to feed it. Merchants, associations, street artists, musicians and inhabitants of the different districts of Naples actively work to realize the final party/artwork event of a long artistic process.</string>
+    <string name="citybrand_quattro">Spread through multiple communication languages, the #CUOREDINAPOLI sign feeds himself of the contents and identity values of the territory. The party/artwork event, therefore, is the result of a long period of artistic experimentation and teamwork, developed by the action of the Moving Experimentation Laboratory of the Course of New Technologies of Art of the Academy of Fine Arts of Naples, that, moving for long periods in the urban contexts in which he intends to operate, builds the artistic process together with those who pass through and live in those city places.</string>
+    <string name="citybrand_cinque">The dissemination of the sign takes place through the active participation of people, allowing anyone to determine a flow capable of intercepting cultural pluralities and transforming them into aesthetic and creative ideas. The action of #CUOREDINAPOLI is in fact aimed at involving all parties, to achieve the construction of a sense of belonging to the common area.</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+</resources>

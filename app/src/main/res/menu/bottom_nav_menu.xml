@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_flusso"
+        android:icon="@drawable/iconaflusso"
+        android:title="@string/title_flusso" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/iconabattito"
+        android:title="@string/title_battito" />
+
+    <item
+        android:id="@+id/navigation_concept"
+        android:icon="@drawable/iconaconcept"
+        android:title="@string/title_concept" />
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/iconacuore"
+        android:title="@string/title_map" />
+
+    <item
+        android:id="@+id/navigation_frag"
+        android:icon="@drawable/inconaar"
+        android:title="@string/title_ar" />
+
+</menu>

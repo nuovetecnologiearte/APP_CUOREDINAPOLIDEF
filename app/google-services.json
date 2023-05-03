@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096495623684",
+    "firebase_url": "https://appdate-7f160.firebaseio.com",
+    "project_id": "appdate-7f160",
+    "storage_bucket": "appdate-7f160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096495623684:android:73de31e9e676c5211c8f51",
+        "android_client_info": {
+          "package_name": "net.cuoredinapoli.battito.cuoredinapoli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096495623684-6e3fnffvqpb1c09s6h77gpgjbc9q6mr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.cuoredinapoli.battito.cuoredinapoli",
+            "certificate_hash": "4323e854b92ae1379df9e9e4482f085c9d99c3b6"
+          }
+        },
+        {
+          "client_id": "1096495623684-scth2kk7gb87i7inpkibi5adto4988lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmUaQnvIs5EYfWYb4LRi5YOM7wvsB42I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096495623684-scth2kk7gb87i7inpkibi5adto4988lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

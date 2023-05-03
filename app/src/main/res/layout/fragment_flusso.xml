@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/giovanni"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:id="@+id/titleFlusso"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:fontFamily="@font/montserrat_bold"
+        android:gravity="center_vertical"
+        android:text="@string/title_Entranelflusso"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="#D00C2E"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/cuoreinsta"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <WebView
+        android:id="@+id/cuoreinsta"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginTop="96dp"
+        android:layout_marginBottom="150dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </WebView>
+
+    <Button
+        android:id="@+id/shareInstagram"
+        android:layout_width="120dp"
+        android:layout_height="39.3dp"
+        android:background="@drawable/instabutton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cuoreinsta"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

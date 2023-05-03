@@ -1,0 +1,201 @@
+{
+       "insegne": [
+{
+            "title": "Trattoria Don Vincenzo",
+            "lat": "40.84993",
+            "lon": "14.259687",
+            "snippet": "Via S.Biagio dei librai, 60 - Napoli",
+            "image": "vincenzo"
+        },
+{
+            "title": "Viaggia Quasi Gratis",
+            "lat": "40.7875422",
+            "lon": "14.3736273",
+            "snippet": "Via Circumvallazione, 163 - Torre del Greco",
+            "image": "gratistorre"
+        },
+{
+            "title": "I am Caso",
+            "lat": "40.867937",
+            "lon": "14.268188",
+            "snippet": "Via Santi Giovanni e Paolo, 3 - Napoli",
+            "image": "caso"
+        },
+{
+            "title": "Le Ortensie Guest House",
+            "lat": "40.851687",
+            "lon": "14.257812",
+            "snippet": "Vico Giganti, 20 - Napoli",
+            "image": "ortensie"
+        },
+{
+            "title": "Viaggia Quasi Gratis",
+            "lat": "40.858812",
+            "lon": "14.28293",
+            "snippet": "Via Giuseppe Buonocore, 31/33 - Napoli",
+            "image": "gratisnapoli"
+        },
+{
+            "title": "La Cantina di Carmine",
+            "lat": "40.910562",
+            "lon": "14.268313",
+            "snippet": "Via Melito, 10 - Arzano",
+            "image": "carmine"
+        },
+{
+            "title": "Pizzeria Sorbillo",
+            "lat": "40.850437",
+            "lon": "14.255312",
+            "snippet": "Via dei Tribunali, 32 - Napoli",
+            "image": "sorbillo"
+        },
+{
+            "title": "Puok Burger Store (VOL.1)",
+            "lat": "40.843188",
+            "lon": "14.222063",
+            "snippet": "Via Francesco Cilea - Napoli",
+            "image": "puok"
+        },
+{
+            "title": "Pizzeria Starita",
+            "lat": "40.855937",
+            "lon": "14.246437",
+            "snippet": "Via Materdei, 27/28 - Napoli",
+            "image": "starita"
+        },
+{
+            "title": "Pizzeria I Decumani",
+            "lat": "40.850938",
+            "lon": "14.256812",
+            "snippet": "Via dei tribunali, 58 - Napoli",
+            "image": "decumani"
+        },
+{
+            "title": "Ristorante Il Pomodorino",
+            "lat": "40.843937",
+            "lon": "14.256312",
+            "snippet": "Corso Umberto I, 1 - Napoli",
+            "image": "pomodorino"
+        },
+{
+            "title": "Pizzeria I Due Re",
+            "lat": "40.855812",
+            "lon": "14.244062",
+            "snippet": "Via Ugo Falcando, 14 - Napoli",
+            "image": "duere"
+        },
+{
+            "title": "Bar San Domenico",
+            "lat": "40.848813",
+            "lon": "14.254268",
+            "snippet": "Piazza San Domenico maggiore, 11 - Napoli",
+            "image": "domenico"
+        },
+{
+            "title": "Caffè dell'Epoca",
+            "lat": "40.849563",
+            "lon": "14.251812",
+            "snippet": "Via Santa Maria di Costantinopoli, 82/83 - Napoli",
+            "image": "epoca"
+        },
+{
+            "title": "Infinity cafè",
+            "lat": "40.855937",
+            "lon": "14.256437",
+            "snippet": "Via Foria, 19 - Napoli",
+            "image": "infinity"
+        },
+{
+            "title": "Pizzeria Sofia",
+            "lat": "40.860687",
+            "lon": "14.270063",
+            "snippet": "Via S. Alfonso de Liguori, 2 - Napoli",
+            "image": "sofia"
+        },
+{
+            "title": "Pasticceria Poderico Napolitano",
+            "lat": "40.860312",
+            "lon": "14.270063",
+            "snippet": "Piazza Luigi Poderico, 2 - Napoli",
+            "image": "napolitano"
+        },
+{
+            "title": "Tabaccheria",
+            "lat": "40.8412411",
+            "lon": "14.2478052",
+            "snippet": "Via Emanuele de Deo, 13 - Napoli",
+            "image": "deo"
+        },
+{
+            "title": "La Figlia del Presidente",
+            "lat": "40.848813",
+            "lon": "14.259563",
+            "snippet": "Via Grande Archivio, 24 - Napoli",
+            "image": "presidente"
+        },
+{
+            "title": "'A Figlia d'o Marenaro",
+            "lat": "40.859312",
+            "lon": "14.262062",
+            "snippet": "Via Foria, 180/182 - Napoli",
+            "image": "marnar"
+        },
+{
+            "title": "Trattoria da Nennella",
+            "lat": "40.841938",
+            "lon": "14.247563",
+            "snippet": "Vico Lungo Teatro Nuovo, 103/105 - Napoli",
+            "image": "nennella"
+        },
+{
+            "title": "Pasticceria Poppella",
+            "lat": "40.857437",
+            "lon": "14.253438",
+            "snippet": "Via Sanità, 147 - Napoli",
+            "image": "poppella"
+        },
+{
+            "title": "Pizzeria Concettina ai Tre Santi",
+            "lat": "40.857437",
+            "lon": "14.252188",
+            "snippet": "Via Arena della Sanità, 7bis - Napoli",
+            "image": "concettina"
+        },
+{
+            "title": "Pizzeria Il Miracolo",
+            "lat": "40.850062",
+            "lon": "14.260562",
+            "snippet": "Via Vicaria Vecchia, 33/35 - Napoli",
+            "image": "miracolo"
+        },
+{
+            "title": "Pizza e Coccos",
+            "lat": "40.851187",
+            "lon": "14.267312",
+            "snippet": "Corso Umberto I, 375 - Napoli",
+            "image": "coccos"
+        },
+{
+            "title": "99 Pizza Napoletana Gourmet",
+            "lat": "34.572562",
+            "lon": "135.489937",
+            "snippet": "Minamimikunigaokacho, 3 Chome−4−13 1階 - Osaka",
+            "image": "giappone"
+        },
+{
+            "title": "B&B Folle Città",
+            "lat": "40.843438",
+            "lon": "14.252937",
+            "snippet": "Via Cardinale Guglielmo Sanfelice, 38 - Napoli",
+            "image": "folle"
+        },
+{
+            "title": "Fico caffè",
+            "lat": "40.849188",
+            "lon": "14.250688",
+            "snippet": "Piazza Dante 35-36 - Napoli",
+            "image": "fico"
+        }
+]
+    
+}

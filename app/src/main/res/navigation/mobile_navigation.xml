@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="net.cuoredinapoli.battito.cuoredinapoli.ui.battito.BattitoFragment"
+        android:label="@string/title_battito"
+        tools:layout="@layout/fragment_battito" />
+
+    <fragment
+        android:id="@+id/navigation_flusso"
+        android:name="net.cuoredinapoli.battito.cuoredinapoli.ui.flusso.FlussoFragment"
+        android:label="@string/title_flusso"
+        tools:layout="@layout/fragment_flusso" />
+
+    <fragment
+        android:id="@+id/navigation_concept"
+        android:name="net.cuoredinapoli.battito.cuoredinapoli.ui.concept.ConceptFragment"
+        android:label="@string/title_concept"
+        tools:layout="@layout/fragment_concept" />
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="net.cuoredinapoli.battito.cuoredinapoli.ui.map.MapFragment"
+        android:label="@string/title_map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/navigation_frag"
+        android:name="net.cuoredinapoli.battito.cuoredinapoli.ui.frammenti.FragOpera"
+        android:label="@string/title_ar"
+        tools:layout="@layout/fragment_frag" />
+
+
+</navigation>
+
